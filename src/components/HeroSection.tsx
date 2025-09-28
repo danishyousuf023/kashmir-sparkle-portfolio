@@ -1,6 +1,6 @@
 import React from 'react';
 import { MapPin, GraduationCap, Trophy } from 'lucide-react';
-import profilePicture from '@/assets/profile-picture.jpg';
+import profilePicture from '/profile-picture.jpg';
 import kashmirLandscape from '@/assets/kashmir-landscape.jpg';
 
 const HeroSection = () => {
